@@ -27,5 +27,5 @@ Apaixonado por tecnologias, desenvolvedor de software, e quero mudar a vida das 
 - Decodificador de texto
 - Jogo do numero secréto
 - Tela de login e cadastro
-- Bot e automação em python
+- Bot de automação em python
 
