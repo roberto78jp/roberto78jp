@@ -28,4 +28,5 @@ Apaixonado por tecnologias, desenvolvedor de software, e quero mudar a vida das 
 - Jogo do numero secréto
 - Tela de login e cadastro
 - Bot de automação em python
+- Agência Bancária em Java
 
